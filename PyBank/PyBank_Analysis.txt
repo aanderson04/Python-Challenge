@@ -1,0 +1,1 @@
+Financial Analysis------------------------------Total Months: {len(total_months)}Total: ${sum(total_revenue)}Average Change: ${sum(average_change)/ len(average_change)}Greatest Increase in Profits: {total_months[month_max_profit]} (${(max_profit)})Greatest Decrease in Profits: {total_months[month_min_profit]} (${(min_profit)})
